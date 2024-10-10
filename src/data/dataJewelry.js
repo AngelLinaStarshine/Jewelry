@@ -134,21 +134,21 @@ const dataJewelry = [{
     category: 'Set of Two'
 },
 {
-    id: 20,
+    id: 21,
     price: 259.89,
     img: 'necklace_set3',
     name :'Lustre Twins',
     category: 'Set of Three'
 },
 {
-    id: 21,
+    id: 22,
     price: 269.89,
     img: '1necklace_set3',
     name :'Trinity Sparkle',
     category: 'Set of Three'
 },
 {
-    id: 22,
+    id: 23,
     price: 279.89,
     img: '2necklace_set3',
     name :'Triple Radiance',
